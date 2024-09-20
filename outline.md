@@ -18,7 +18,7 @@
     d.  Revise based on results  
     e.  How not to use  
         i.  Academic dishonesty -- don't have it write your papers  
-        ii. Don't treat it like an expert -- I makes mistakes  
+        ii. Don't treat it like an expert -- AI makes mistakes  
         iii. Don't ask it for sources -- it hallucinates sources  
 1.  Specific ideas -20 minutes  
     a.  (J) ChatGPT for jargon/search terms  
