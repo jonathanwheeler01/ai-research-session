@@ -13,12 +13,12 @@
     d.  Environment/ labor  
 1.  (D) General Principals for use and how not to use - 15  
     a.  CLEAR  
-        i. Concise
-        ii. Logical
-        iii. Explicit
-        iV. Adaptive
-        v. Reflective
-    b.  Give your model an identity  
+        i. Concise\
+        ii. Logical\
+        iii. Explicit\
+        iV. Adaptive\
+        v. Reflective\
+    b.  Understand your model's "identity" and if necessary give it a new one  
     c.  Work step by step and give examples  
     d.  Revise based on results  
     e.  How not to use  
